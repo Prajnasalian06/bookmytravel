@@ -36,7 +36,7 @@ text-decoration:none;
 </style>
 </head>
 
-<body >
+<body img src="image/travel.jpg" >
 	<h1 align="center">Book My Travel</h1>
 <div id="Container">
 <ul>
@@ -65,7 +65,7 @@ text-decoration:none;
 	<br>
  	<br>
 	<P><b><i>"Take only memories,&nbsp;leave only footprints"</i></b></p>
-	
+	<img src="image/travel.jpg"/>
 
 </body>
 </html>
